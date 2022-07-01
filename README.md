@@ -13,7 +13,7 @@ Estou focado atualmente em me aprimorar em desenvolvimento web.
 <br/>
 
 - 🔭 Hoje eu trabalho com o desenvolvimento de projetos para o INOVE, projeto da UFC de Quixadá.
-- 🌱 Estou estudando front-end em React, back-end Com Firebase, e também back-end com express e MongoDB.
+- 🌱 Estou estudando front-end em React, back-end em Firebase, e também back-end em express e MongoDB.
 - 👯 Estou trabalhando no projeto do Instituto dos Cegos de Fortaleza
 
   <div align="center">
