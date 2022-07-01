@@ -18,6 +18,9 @@ Estou focado atualmente em me aprimorar em desenvolvimento web.
 
   <div align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
+    <br/>
+    
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
     <br/>
