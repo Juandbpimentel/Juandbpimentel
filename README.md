@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Juan Pimentel e esse é meu repositório<h1>
 
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Engineering+Student;Back+end+Developer" alt="Headline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Engineering+Student;Software+Developer" alt="Headline"/>
 </div>
 
 <h3> Estudante na Universidade Federal do Ceará, Campus Quixadá, Brasil 🇧🇷 </h3>
