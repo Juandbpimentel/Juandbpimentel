@@ -47,4 +47,8 @@ Estou focado atualmente em me aprimorar em desenvolvimento web.
     <a href="https://www.linkedin.com/in/juan-pimentel-3b6a67221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
+#
+
+<img width='100vw' src="https://github.com/Juandbpimentel/Juandbpimentel/blob/output/github-contribution-grid-snake.svg" target="_blank">
+
 ![Snake animation](https://github.com/Juandbpimentel/Juandbpimentel/blob/output/github-contribution-grid-snake.svg)
