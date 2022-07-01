@@ -48,7 +48,10 @@ Estou focado atualmente em me aprimorar em desenvolvimento web.
   </div>
 
 #
+<!--
+<img width='10000rem' align='center' src="https://github.com/Juandbpimentel/Juandbpimentel/blob/output/github-contribution-grid-snake.svg" target="_blank"> -->
+<div>
+  <img width='10000rem' align='center' src="https://github.com/Juandbpimentel/Juandbpimentel/blob/output/github-contribution-grid-snake.svg" target="_blank">
+</div>
 
-<img width='100vw' src="https://github.com/Juandbpimentel/Juandbpimentel/blob/output/github-contribution-grid-snake.svg" target="_blank">
-
-![Snake animation](https://github.com/Juandbpimentel/Juandbpimentel/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Juandbpimentel/Juandbpimentel/blob/output/github-contribution-grid-snake.svg)
