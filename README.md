@@ -17,12 +17,12 @@ Estou focado atualmente em me aprimorar em desenvolvimento web.
 - 👯 Estou trabalhando no projeto do Instituto dos Cegos de Fortaleza
 
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=compact&exclude_repo=Embarcados &langs_count=7&theme=tokyonight&count_private=false"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
     <br/>
 
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Juandbpimentel&layout=compact&langs_count=7&theme=tokyonight" />
+    <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Juandbpimentel&layout=compact&langs_count=7&theme=tokyonight" />
 
     <br/>
   </div>
@@ -43,3 +43,5 @@ Estou focado atualmente em me aprimorar em desenvolvimento web.
     <a href = "mailto:juandbpimentel@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/juan-pimentel-3b6a67221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+
+![Snake animation](https://github.com/Juandbpimentel/Juandbpimentel/blob/output/github-contribution-grid-snake.svg)
