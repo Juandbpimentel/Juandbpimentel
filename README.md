@@ -21,11 +21,11 @@ Estou focado atualmente em me aprimorar em desenvolvimento web.
     
     <br/>
     
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
     <br/>
 
-    <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Juandbpimentel&layout=compact&langs_count=7&theme=tokyonight" />
+    <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Juandbpimentel&layout=compact&langs_count=8&theme=tokyonight" />
 
     <br/>
   </div>
