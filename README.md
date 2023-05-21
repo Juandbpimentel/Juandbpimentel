@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Juan Pimentel e esse é meu repositório<h1>
 
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student;Software+Developer" alt="Headline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student;Fullstack+Developer;Project+Manager+At+Dev-Inove" alt="Headline"/>
 </div>
 
 <h3> Estudante na Universidade Federal do Ceará, Campus Quixadá, Brasil 🇧🇷 </h3>
@@ -17,15 +17,15 @@ Estou focado atualmente em me aprimorar em desenvolvimento web.
 - 👯 Estou trabalhando no projeto do Instituto dos Cegos de Fortaleza
 
   <div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=tokyonight&include_all_commits=true&countprivate=true"/>
     
     <br/>
     
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=6"/>
     
     <br/>
 
-    <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Juandbpimentel&layout=compact&langs_count=8&theme=tokyonight" />
+    <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Juandbpimentel&layout=compact&langscount=8&theme=tokyonight" />
 
     <br/>
   </div>
