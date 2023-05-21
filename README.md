@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Juandbpimentel.Juandbpimentel&left_color=orange&right_color=black"  />
 <h1 align="center">Olá, meu nome é Juan Pimentel e esse é meu repositório<h1>
 
 <div align=center>
