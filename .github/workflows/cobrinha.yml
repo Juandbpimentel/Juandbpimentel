@@ -13,6 +13,7 @@ jobs:
     steps:
       # Generate Snake Animation svg
       - uses: Platane/snk/svg-only@v2.2.1
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
