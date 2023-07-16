@@ -1,11 +1,11 @@
-name: Generate Snake Datas
+name: Generate Snake
 
 # Controls when the action will run. This action runs every 6 hours.
 
 on:
   schedule:
       # every 6 hours
-    - cron: "0 */6 * * *"
+    - cron: "10 */6 * * *"
 
 jobs:
   build:
