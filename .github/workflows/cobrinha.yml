@@ -15,14 +15,13 @@ jobs:
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v2.2.1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          color_snake: orange
+          github_user_name: Juandbpimentel
           outputs:  |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       # Push snake to github repository
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3.0.0
         with:
           target_branch: output
           build_dir: dist
