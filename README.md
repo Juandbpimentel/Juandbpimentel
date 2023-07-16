@@ -53,11 +53,5 @@ Eu sou um desenvolvedor muito curioso e estou sempre em busca de mais conhecimen
   </div>
 </div>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake gif](https://github.com/Juandbpimentel/Juandbpimentel/blob/output/github-contribution-grid-snake.gif)
