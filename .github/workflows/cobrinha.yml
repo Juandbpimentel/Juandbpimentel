@@ -2,27 +2,28 @@ name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
-    - cron: '10 * * * *'
+    - cron: '5 * * * *'
   workflow_dispatch:
 
 jobs:
-  generate:
-    timeout-minutes: 10
+  build:
+    timeout-minutes: 5
     name: Jobs to generate github commit snake
     runs-on: ubuntu-latest
     steps:
-      # Generate Snake Animation svg
-      - uses: Platane/snk/svg-only@v2.2.1
+      - name: Generate Snake Animation svg
+        uses: Platane/snk/svg-only@v2
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+#            dist/github-snake-dark.svg?palette=github-dark
+#            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       
-      # Push snake to github repository
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push snake to github repository
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
