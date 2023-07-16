@@ -52,6 +52,3 @@ Eu sou um desenvolvedor muito curioso e estou sempre em busca de mais conhecimen
     </a>
   </div>
 </div>
-
----
-![snake gif](https://github.com/Juandbpimentel/Juandbpimentel/blob/output/github-contribution-grid-snake.gif)
