@@ -13,10 +13,10 @@ jobs:
     name: Jobs to generate github commit snake
     runs-on: ubuntu-latest
     steps:
-    
+
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
-    
+
       - name: Generate Snake Animation svg
       - uses: Platane/snk@master
         id: snake-gif
@@ -25,7 +25,7 @@ jobs:
           github_user_name: Juandbpimentel
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-      
+
       - name: Push snake to github repository
         if: success()
         uses: crazy-max/ghaction-github-pages@v2.1.3
