@@ -27,7 +27,7 @@ Eu sou um desenvolvedor muito curioso e estou sempre em busca de mais conhecimen
   <img alt="NextJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img alt="React" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Express" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img alt="Prisma" height="60px" width="60px" src="./icons/prisma.svg" />
+  <img alt="Prisma" height="60px" width="60px" src="./icons/prismaLogo.svg" />
 
   <img alt="MongoDB" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="PostgreSQL" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
