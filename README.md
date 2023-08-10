@@ -16,6 +16,28 @@ Eu sou um desenvolvedor muito curioso e estou sempre em busca de mais conhecimen
 - 🔭 Hoje eu trabalho com o desenvolvimento de projetos na célula de Desenvolvimento de Software Web ou [Dev-Inove](https://github.com/dev-inove), uma equipe que faz parte do [INOVE](https://inove.quixada.ufc.br/), um projeto da UFC de Quixadá.
 - 🌱 Estou estudando sobre metodologias ágeis para projetos de desenvolvimento de software, além de outras coisas relacionadas à desenvolvimento backend e frontend com javascript para ser um melhor gerente para minha equipe.
 - 👯 Estou trabalhando no projeto do [Instituto dos Cegos de Fortaleza](https://github.com/dev-inove/Projeto-IDC) como Gerente de projeto
+### Tecnologias que eu uso:
+  <br/>
+<div align="center" style="display: inline_block">
+  <img alt="Javascript" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Typescript" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="Git" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+  <img alt="NodeJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="NextJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="React" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Express" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img alt="Prisma" height="60px" width="60px" src="./icons/prisma.svg" />
+
+  <img alt="MongoDB" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="PostgreSQL" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Firebase" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  
+  <img alt="Jest" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img alt="Figma" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img alt="Trello" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+</div>
+<br/>
 
 ---
   
@@ -29,16 +51,6 @@ Eu sou um desenvolvedor muito curioso e estou sempre em busca de mais conhecimen
 </div>
 
 <br/>
-
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="React Icon" height="60" width="80" src="icons/react-original.svg">
-  <img align="center" alt="Bootstrap Icon" height="60" width="80" src="icons/bootstrap-original.svg">
-  <img align="center" alt="Firebase icon" height="60" width="80" src="icons/firebase-plain.svg">
-  <img align="center" alt="MongoDB Icon" height="60" width="80" src="icons/mongodb-plain.svg">
-  <img align="center" alt="Javascript Icon" height="60" width="80" src="icons/javascript-original.svg">
-  <img align="center" alt="Git Icon" height="60" width="80" src="icons/git-original.svg">
-  <img align="center" alt="C Icon" height="60" width="80" src="icons/c-original.svg">
-</div>
   
 ---
 <div align="center">
