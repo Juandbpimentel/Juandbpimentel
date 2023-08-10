@@ -24,7 +24,7 @@ Eu sou um desenvolvedor muito curioso e estou sempre em busca de mais conhecimen
   <br/>
   <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Juandbpimentel&layout=compact&langscount=8&theme=tokyonight" />
   <br/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=donut&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=4"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=donut&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=7"/>
   <br/>
 </div>
 
