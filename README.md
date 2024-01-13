@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student;Fullstack+Developer;Project+Manager+At+Dev-Inove" alt="Headline"/>
 </div>
 
-### Sou Estudante da [Universidade Federal do Ceará, Campus Quixadá](https://www.quixada.ufc.br), Brasil 🇧🇷 </h3>
+### Sou Estudante da [Universidade Federal do Ceará, Campus Quixadá](https://www.quixada.ufc.br), Brasil 🇧🇷 
 
 <br/>
 <img src="icons/ReactGif_NoBG_3.gif" align="right" width="200em" height="250em" >
