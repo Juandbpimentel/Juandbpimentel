@@ -9,11 +9,14 @@
 
 <br/>
 <img src="icons/ReactGif_NoBG_3.gif" align="right" width="200em" height="250em" >
-Eu sou um desenvolvedor muito curioso e estou sempre em busca de mais conhecimento sobre tecnologia. Também estou a cada dia tentando descobrir o que me interessa mais na área de tecnologia pra me aprofundar mais como profissional.
+Eu sou uma pessoa que gosta muito de aprender várias coisas, mas o que sempre mantive o gosto de aprender mais foi a programação. Gosto de me arriscar e aprender tudo que eu puder de muitas áreas de programação, de desenvolvimento de sistemas embarcados à jogos, de frontend à infraestrutura de redes de computadores, é muito prazeroso ter a oportunidade de aprender mais sobre todas essas áreas e ver o que dá pra fazer de legal com o que eu aprendo sobre elas. 
 <br/>
- <br/>
+<br/>
+Acredito que essa curiosidade e vontade de aprender mais, é o que a cada dia me ensina a ser um melhor profissinal, uma melhor pessoa e um bom desenvolvedor, e quero poder levar isso comigo por toda a minha carreira como desenvolvedor e aprender o máximo que eu puder com todos durante minha caminhada.
+<br/>
+<br/>
 
-- 🔭 Hoje eu trabalho com o <strong>Desenvolvimento de Software Fullstack</strong> mais voltado para o lado do backend em Java, com Spring Boot no [Insight Lab](https://www.insightlab.ufc.br/).
+- 🔭 Hoje eu trabalho com o <strong>Desenvolvimento de Software Fullstack</strong> mais voltado para o <strong>Backend em Java, com Spring Boot</strong> no [Insight Lab](https://www.insightlab.ufc.br/).
 - 🌱 Estou estudando para me aprofundar mais sobre o desenvolvimento de software backend e como fazer a persistência de dados, e quando tenho um tempo livre a como trabalhar com a infraestrutura da rede de computadores.
 
 ### Tecnologias que eu utilizo no dia a dia:
