@@ -2,20 +2,20 @@
 <h1 align="center">Olá👋, meu nome é Juan Pimentel, e esse é meu Github!<h1>
 
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student;Fullstack+Developer;At+Insight-Lab" alt="Headline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student;Fullstack+Developer;At+Insight+Lab+UFC" alt="Headline"/>
 </div>
 
 ### Sou Estudante da [Universidade Federal do Ceará, Campus Quixadá](https://www.quixada.ufc.br), Brasil 🇧🇷 
 
 <br/>
 <img src="icons/ReactGif_NoBG_3.gif" align="right" width="200em" height="250em" >
-Eu sou um desenvolvedor muito curioso e estou sempre em busca de mais conhecimento sobre tecnologia. Também estou a cada dia tentando descobrir o que me interessa mais na área de tecnologia pra me aprofundar mais como profissional. Hoje em dia estou focado em me aprimorar em gerência de projetos de software.
+Eu sou um desenvolvedor muito curioso e estou sempre em busca de mais conhecimento sobre tecnologia. Também estou a cada dia tentando descobrir o que me interessa mais na área de tecnologia pra me aprofundar mais como profissional.
 <br/>
  <br/>
 
-- 🔭 Hoje eu trabalho com o desenvolvimento de projetos na célula de Desenvolvimento de Software Web ou [Dev-Inove](https://github.com/dev-inove), uma equipe que faz parte do [INOVE](https://inove.quixada.ufc.br/), um projeto da UFC de Quixadá.
-- 🌱 Estou estudando sobre metodologias ágeis para projetos de desenvolvimento de software, além de outras coisas relacionadas à desenvolvimento backend e frontend com javascript para ser um melhor gerente para minha equipe.
-- 👯 Estou trabalhando no projeto do [Instituto dos Cegos de Fortaleza](https://github.com/dev-inove/Projeto-IDC) como Gerente de projeto
+- 🔭 Hoje eu trabalho com o <strong>Desenvolvimento de Software Fullstack</strong> mais voltado para o lado do backend em Java, com Spring Boot no [Insight Lab](https://www.insightlab.ufc.br/).
+- 🌱 Estou estudando para me aprofundar mais sobre o desenvolvimento de software backend e como fazer a persistência de dados, e quando tenho um tempo livre a como trabalhar com a infraestrutura da rede de computadores.
+
 ### Tecnologias que eu utilizo no dia a dia:
   <br/>
 <div align="center" style="display: inline_block">
