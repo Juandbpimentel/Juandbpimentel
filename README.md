@@ -2,7 +2,7 @@
 <h1 align="center">Olá👋, meu nome é Juan Pimentel, e esse é meu Github!<h1>
 
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student;Fullstack+Developer+At+Insight-Lab" alt="Headline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student;Fullstack+Developer;At+Insight-Lab" alt="Headline"/>
 </div>
 
 ### Sou Estudante da [Universidade Federal do Ceará, Campus Quixadá](https://www.quixada.ufc.br), Brasil 🇧🇷 
