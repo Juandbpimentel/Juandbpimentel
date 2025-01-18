@@ -21,15 +21,15 @@ Acredito que essa curiosidade e vontade de aprender mais, é o que a cada dia me
 ### Tecnologias que eu utilizo no dia a dia:
   <br/>
 <div align="center" style="display: inline_block">
-  <img alt="Javascript" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Typescript" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="React" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="NodeJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="NextJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img alt="Express" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img alt="Prisma" height="60px" width="60px" src="./icons/prismaLogo.svg" />
   <img alt="Java" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
   <img alt="Spring" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="Typescript" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="Javascript" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="NodeJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Express" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img alt="Prisma" height="60px" width="60px" src="./icons/prismaLogo.svg" />
+  <img alt="React" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="NextJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <br/>
   <img alt="Tailwind" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="MongoDB" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
