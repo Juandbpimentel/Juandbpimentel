@@ -8,7 +8,6 @@
 ### Sou Estudante da [Universidade Federal do Ceará, Campus Quixadá](https://www.quixada.ufc.br), Brasil 🇧🇷 
 
 <br/>
-<img src="icons/ReactGif_NoBG_3.gif" align="right" width="200em" height="250em" >
 Eu sou uma pessoa que gosta muito de aprender várias coisas, mas o que sempre mantive o gosto de aprender mais foi a programação. Gosto de me arriscar e aprender tudo que eu puder de muitas áreas de programação, de desenvolvimento de sistemas embarcados à jogos, de frontend à infraestrutura de redes de computadores, é muito prazeroso ter a oportunidade de aprender mais sobre todas essas áreas e ver o que dá pra fazer de legal com o que eu aprendo sobre elas. 
 <br/>
 <br/>
