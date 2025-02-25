@@ -23,9 +23,12 @@ Acredito que essa curiosidade e vontade de aprender mais, é o que a cada dia me
 <div align="center" style="display: inline_block">
   <img alt="Java" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
   <img alt="Spring" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img alt="Material UI" title="Material UI" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" />
+  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flyway.png" alt="Flyway" title="Flyway"/>
+  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" alt="JUnit" title="JUnit"/>
+  <br/>
   <img alt="Kotlin" title="Kotlin" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" />
   <img alt="Android" title="Android" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" />
+  <img alt="Material UI" title="Material UI" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" />
   <br/>
   <img alt="Typescript" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Javascript" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -33,6 +36,7 @@ Acredito que essa curiosidade e vontade de aprender mais, é o que a cada dia me
   <img alt="Express" height="60px" width="60px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" />
   <img alt="Nestjs" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img alt="Prisma" height="60px" width="60px" src="./icons/prismaLogo.svg" />
+  <img alt="Jest" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <br/>
   <img alt="React" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="NextJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
@@ -48,8 +52,8 @@ Acredito que essa curiosidade e vontade de aprender mais, é o que a cada dia me
   <img alt="Firebase" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img alt="MongoDB" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="PostgreSQL" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="Jest" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img alt="Docker" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <br/>
   <img alt="Git" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Figma" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img alt="Trello" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
