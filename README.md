@@ -18,23 +18,36 @@ Acredito que essa curiosidade e vontade de aprender mais, é o que a cada dia me
 - 🔭 Hoje eu trabalho com o <strong>Desenvolvimento de Software Fullstack</strong> mais voltado para o <strong>Backend em Java, com Spring Boot</strong> no [Insight Lab](https://www.insightlab.ufc.br/).
 - 🌱 Estou estudando para me aprofundar mais sobre o desenvolvimento de software backend e como fazer a persistência de dados, e quando tenho um tempo livre a como trabalhar com a infraestrutura da rede de computadores.
 
-### Tecnologias que eu utilizo no dia a dia:
+### Tecnologias que eu tenho experiência:
   <br/>
 <div align="center" style="display: inline_block">
   <img alt="Java" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
   <img alt="Spring" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="Material UI" title="Material UI" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" />
+  <img alt="Kotlin" title="Kotlin" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" />
+  <img alt="Android" title="Android" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" />
+  <br/>
   <img alt="Typescript" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Javascript" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="NodeJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img alt="Express" height="60px" width="60px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" />
+  <img alt="Nestjs" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img alt="Prisma" height="60px" width="60px" src="./icons/prismaLogo.svg" />
-  <img alt="React" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="NextJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <br/>
+  <img alt="React" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="NextJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img alt="Tailwind" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
+  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/styled-components.png" alt="styled-components" title="styled-components"/>
+  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ant_design.png" alt="Ant Design" title="Ant Design"/>
+  <br/>
+  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" title="SQLAlchemy" />
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/>       
+  <br/>
+  <img alt="Firebase" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img alt="MongoDB" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="PostgreSQL" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="Firebase" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img alt="Jest" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img alt="Docker" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img alt="Git" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -49,9 +62,6 @@ Acredito que essa curiosidade e vontade de aprender mais, é o que a cada dia me
   
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <br/>
-  <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Juandbpimentel&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true" />
   <br/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=donut&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=7&hide=HTML,CSS,Assembly,Makefile"/>
   <br/>
