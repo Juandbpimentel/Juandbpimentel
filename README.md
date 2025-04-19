@@ -1,87 +1,112 @@
+<img src="./icons/profilecape.png">
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Juandbpimentel.Juandbpimentel&left_color=orange&right_color=black"  />
-<h1 align="center">Olá👋, meu nome é Juan Pimentel, e esse é meu Github!<h1>
 
-<div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student;Fullstack+Developer;At+Insight+Lab+UFC" alt="Headline"/>
-</div>
 
-### Sou Estudante da [Universidade Federal do Ceará, Campus Quixadá](https://www.quixada.ufc.br), Brasil 🇧🇷 
+# Sobre mim 👋🏻
 
-<br/>
-Eu sou uma pessoa que gosta muito de aprender várias coisas, mas o que sempre mantive o gosto de aprender mais foi a programação. Gosto de me arriscar e aprender tudo que eu puder de muitas áreas de programação, de desenvolvimento de sistemas embarcados à jogos, de frontend à infraestrutura de redes de computadores, é muito prazeroso ter a oportunidade de aprender mais sobre todas essas áreas e ver o que dá pra fazer de legal com o que eu aprendo sobre elas. 
-<br/>
-<br/>
-Acredito que essa curiosidade e vontade de aprender mais, é o que a cada dia me ensina a ser um melhor profissinal, uma melhor pessoa e um bom desenvolvedor, e quero poder levar isso comigo por toda a minha carreira como desenvolvedor e aprender o máximo que eu puder com todos durante minha caminhada.
-<br/>
-<br/>
+Prazer em conhecê-los! Meu nome é Juan Pimentel, sou um engenheiro de software apaixonado por desenvolver soluções que resolvam da melhor forma o problema das pessoas.
 
-- 🔭 Hoje eu trabalho com o <strong>Desenvolvimento de Software Fullstack</strong> mais voltado para o <strong>Backend em Java, com Spring Boot</strong> no [Insight Lab](https://www.insightlab.ufc.br/).
-- 🌱 Estou estudando para me aprofundar mais sobre o desenvolvimento de software backend e como fazer a persistência de dados, e quando tenho um tempo livre a como trabalhar com a infraestrutura da rede de computadores.
+- 📚 **Estudante de Engenharia de Software na [UFC (Campus Quixadá)](https://www.quixada.ufc.br)** – Reconhecido como o campus mais bonito da UFC (Por nós alunos do campus e muitos outros de fora também hehe), foco em formação técnica e teórica.
+- 💼 **Trabalho Atual** - Atualmente estou atuando como Desenvolvedor Backend Java no [Insight Data Science Lab](https://www.insightlab.ufc.br/)
+- 👨🏻‍💻 **Atuação em Desenvolvimento de Software** – Backend como principal, com experiência em Frontend, Mobile, Jogos, Embarcados, DevOps, Infra e MLOps.  
+- 💻 **Foco em Domínio Tecnológico** – Busco aprofundamento em tecnologias para criar soluções robustas, escaláveis e de alta performance colaborando sempre com minhas equipes.
+- 🌍 **Objetivo** – Almejo projetos que usem tecnologia para melhorar vidas e gerar transformação positiva no mundo.
+- 💡 **Curiosidade e Aprendizado Contínuo** – Explorar novas linguagens, tecnologias e metodologias é essencial para meu crescimento profissional.
+- 🤝 **Colaboração e Compartilhamento** – Valorizo troca de conhecimento, mentorias e trabalho em equipe para evolução coletiva e individual.
+- 🌱 **Estudo atuais** - Estou estudando sobre a área de MLOps e IA, e também sobre a área de Desenvolvimento de Jogos.
+- 📈 **Projetos Futuros** - Estou planejando desenvolver um game que utiliza conceitos técnicos de multiplayer e infraestrutura de rede.
 
-### Tecnologias que eu tenho experiência:
-  <br/>
-<div align="center" style="display: inline_block">
-  <img alt="Java" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-  <img alt="Spring" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flyway.png" alt="Flyway" title="Flyway"/>
-  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" alt="JUnit" title="JUnit"/>
-  <br/>
-  <img alt="Kotlin" title="Kotlin" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" />
-  <img alt="Android" title="Android" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" />
-  <img alt="Material UI" title="Material UI" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" />
-  <br/>
-  <img alt="Typescript" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Javascript" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="NodeJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" height="60px" width="60px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" />
-  <img alt="Nestjs" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img alt="Prisma" height="60px" width="60px" src="./icons/prismaLogo.svg" />
-  <img alt="Jest" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <br/>
-  <img alt="React" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="NextJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img alt="Tailwind" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
-  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/styled-components.png" alt="styled-components" title="styled-components"/>
-  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ant_design.png" alt="Ant Design" title="Ant Design"/>
-  <br/>
-  <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
-  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" title="SQLAlchemy" />
-  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/>       
-  <br/>
-  <img alt="Firebase" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img alt="MongoDB" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="PostgreSQL" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="Docker" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <br/>
-  <img alt="Git" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Figma" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img alt="Trello" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-  
-  <br/>
-</div>
-<br/>
+## 🛠️ Stacks de Tecnologia & Ferramentas  
+
+### 🚀 Linguagens de Programação  
+Proficiente em diversas linguagens, garantindo flexibilidade em diferentes projetos e arquiteturas.  
+<p>
+    <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+    <img alt="Kotlin" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" />
+    <img alt="Python" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" />
+    <img alt="Typescript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img alt="Javascript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img alt="Gdscript" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" />
+</p>
+
+### 🚀 Frameworks
+Experiência prática com frameworks modernos para acelerar o desenvolvimento de aplicações.  
+<p>
+    <img alt="Android" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" />
+    <img alt="Spring Boot" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" />
+    <img alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img alt="Express" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" />
+    <img alt="NestJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+    <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img alt="NextJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    <img alt="VueJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img alt="Vuetify" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vuetify_js.png" />
+    <img alt="FastAPI" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+</p>
+
+### 🚀 Ferramentas de Desenvolvimento  
+Utilização de ferramentas essenciais para acelerar o desenvolvimento, testes e integração contínua.  
+<p>
+    <img alt="Tailwind" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img alt="Bootstrap" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" />
+    <img alt="Material UI" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" />
+    <img alt="Ant Design" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ant_design.png" />
+    <img alt ="Pandas" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" />
+    <img alt="Flyway" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flyway.png" />
+    <img alt="JUnit" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" />
+    <img alt="Jest" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+</p>
+
+### 🚀 Bancos de Dados e ORMs
+Conhecimento em bancos de dados relacionais e não relacionais para aplicações escaláveis.  
+<p>
+    <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img alt="Firestore" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" />
+    <img alt="Google Cloud" height="40" src="  https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" />
+    <img alt="SQLite" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" />
+    <img alt="Prisma" height="40" src="./icons/prismaLogo.svg" />
+    <img alt="SQLAlchemy" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
+</p>
+
+### 🚀 Ferramentas de Cloud e DevOps  
+Experiência com ferramentas de infraestrutura e cloud para automação e escalabilidade.  
+<p>
+    <img alt="Firestore" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" />
+    <img alt="Google Cloud" height="40" src="  https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" />
+    <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img alt ="CI/CD" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" />
+    <img alt="GitHub Actions" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+</p>
+
+### 🚀 Ferramentas de Colaboração e Design  
+Valorizo a colaboração e o design para criar soluções eficazes e intuitivas.  
+<p>
+    <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img alt="Trello" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+    <img alt="Jira" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" />
+    <img alt="Notion" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+</p>
 
 ---
-  
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=donut&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=7&hide=HTML,CSS,Assembly,Makefile"/>
-  <br/>
-</div>
 
-<br/>
-  
+# 📊 Estatísticas do GitHub  
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <br/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=donut&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=7&hide=HTML,CSS,Assembly,Makefile" alt="Linguagens Mais Usadas" />
+</p>
+
 ---
-<div align="center">
-  <h3>Meus contatos</h3>
-  <div align="center">
-    <a href = "mailto:juandbpimentel@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/juan-pimentel-3b6a67221" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-  </div>
-</div>
+
+## 📫 Contato  
+Interessado em colaborar ou quer bater um papo? Sinta-se à vontade para me chamar!
+
+📩 **Email:** [juandbpimentel@gmail.com](mailto:juandbpimentel@gmail.com)  
+💼 **LinkedIn:** [juan-pimentel-3b6a67221](https://www.linkedin.com/in/juan-pimentel-3b6a67221)  
+
+---
