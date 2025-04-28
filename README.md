@@ -95,12 +95,17 @@ Valorizo a colaboração e o design para criar soluções eficazes e intuitivas.
 
 ---
 
-# 📊 Estatísticas do GitHub  
-<p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <br/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=donut&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=7&hide=HTML,CSS,Assembly,Makefile" alt="Linguagens Mais Usadas" />
-</p>
+## 📊 Estatísticas do GitHub
+
+![Status do Github](https://github-readme-stats.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
+
+---
+## Linguagens Mais Usadas
+![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=donut&theme=gruvbox&include_all_commits=true&count_private=true&langs_count=10&hide=HTML,CSS,Assembly,Makefile,Powershell)
+
+---
+## Troféus:
+[![Troféus](https://github-profile-trophy.vercel.app/?username=Juandbpimentel&theme=gruvbox&margin-w=20&margin-h=20)](https://github.com/Juandbpimentel)
 
 ---
 
