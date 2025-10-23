@@ -9,13 +9,13 @@ Prazer em conhecê-los! Meu nome é Juan Pimentel, tenho 24 anos, nasci no Rio d
 
 - 📚 **Estudante de Engenharia de Software na [UFC (Campus Quixadá)](https://www.quixada.ufc.br)** – Reconhecido como o campus mais bonito da UFC (Por nós alunos do campus e muitos outros de fora também hehe), foco em formação técnica e teórica.
 - 💼 **Trabalho Atual** - Atualmente estou atuando como Desenvolvedor Backend Java no [Insight Data Science Lab](https://www.insightlab.ufc.br/)
-- 👨🏻‍💻 **Atuação em Desenvolvimento de Software** – Backend como principal, com experiência em Frontend, Mobile, Jogos, Embarcados, DevOps, Infra e MLOps.  
+- 👨🏻‍💻 **Atuação em Desenvolvimento de Software** – Backend como principal, com experiência em Frontend, Mobile, Jogos, Embarcados, DevOps, Infra, Machine Learning, Deep Learning e IoT.  
 - 💻 **Foco em Domínio Tecnológico** – Busco aprofundamento em tecnologias para criar soluções robustas, escaláveis e de alta performance colaborando sempre com minhas equipes.
 - 🌍 **Objetivo** – Almejo projetos que usem tecnologia para melhorar vidas e gerar transformação positiva no mundo.
 - 💡 **Curiosidade e Aprendizado Contínuo** – Explorar novas linguagens, tecnologias e metodologias é essencial para meu crescimento profissional.
 - 🤝 **Colaboração e Compartilhamento** – Valorizo troca de conhecimento, mentorias e trabalho em equipe para evolução coletiva e individual.
-- 🌱 **Estudo atuais** - Estou estudando sobre a área de MLOps e IA, e também sobre a área de Desenvolvimento de Jogos.
-- 📈 **Projetos Futuros** - Estou planejando desenvolver um game que utiliza conceitos técnicos de multiplayer e infraestrutura de rede.
+- 🌱 **Estudo atuais** - Estou estudando sobre a área de IA e IoT, focando em realizar projetos que inovem integrando as duas áreas e novas tecnologias.
+- 📈 **Projetos Futuros** - Estou planejando desenvolver um sistema que interconecte vários dispositivos de IA com redes de dispositivos IoT, criando um ecossistema de IA e IoT se comunicando entre si.
 
 ## 🛠️ Stacks de Tecnologia & Ferramentas  
 
