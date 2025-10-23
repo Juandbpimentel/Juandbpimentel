@@ -101,7 +101,7 @@ Valorizo a colaboração e o design para criar soluções eficazes e intuitivas.
 
 ---
 ## Linguagens Mais Usadas
-![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=donut&theme=gruvbox&include_all_commits=true&count_private=true&langs_count=10&hide=HTML,CSS,Assembly,Makefile,Powershell)
+![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=donut&theme=gruvbox&include_all_commits=true&count_private=true&langs_count=10&hide=HTML,CSS,Assembly,Makefile,Powershell,ShaderLab,HLSL,Mathematica)
 
 ---
 ## Troféus:
