@@ -5,7 +5,7 @@
 
 # Sobre mim 👋🏻
 
-Prazer em conhecê-los! Meu nome é Juan Pimentel, tenho 24 anos, nasci no Rio de Janeiro, porém estou morando agora em Quixadá, CE. Sou um engenheiro de software apaixonado por desenvolver soluções que resolvam da melhor forma o problema das pessoas.
+Prazer em conhecê-los! Meu nome é Juan Pimentel, tenho 23 anos, nasci no Rio de Janeiro, porém estou morando agora em Quixadá, CE. Sou um engenheiro de software apaixonado por desenvolver soluções que resolvam da melhor forma o problema das pessoas.
 
 - 📚 **Estudante de Engenharia de Software na [UFC (Campus Quixadá)](https://www.quixada.ufc.br)** – Reconhecido como o campus mais bonito da UFC (Por nós alunos do campus e muitos outros de fora também hehe), foco em formação técnica e teórica.
 - 💼 **Trabalho Atual** - Atualmente estou atuando como Desenvolvedor Backend Java no [Insight Data Science Lab](https://www.insightlab.ufc.br/)
