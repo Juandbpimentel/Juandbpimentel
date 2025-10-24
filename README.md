@@ -21,239 +21,281 @@ Prazer em conhecê-los! Meu nome é Juan Pimentel, tenho 23 anos, nasci no Rio d
 
 ### 🚀 Linguagens de Programação  
 Proficiente em diversas linguagens, garantindo flexibilidade em diferentes projetos e arquiteturas.  
-<p>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Java" height="40" src="./assets/images/java.png?v=3"/><br/>
-  <sub>Java</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Kotlin" height="40" src="./assets/images/kotlin.png?v=3"/><br/>
-  <sub>Kotlin</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Python" height="40" src="./assets/images/python.png?v=3"/><br/>
-  <sub>Python</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Typescript" height="40" src="./assets/images/typescript.png?v=3"/><br/>
-  <sub>Typescript</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Javascript" height="40" src="./assets/images/javascript.png?v=3"/><br/>
-  <sub>Javascript</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="C#" height="40" src="./assets/images/csharp.png?v=3"/><br/>
-  <sub>C#</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="C++" height="40" src="./assets/images/cpp.png?v=3"/><br/>
-  <sub>C++</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="C" height="40" src="./assets/images/c.png?v=3"/><br/>
-  <sub>C</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Gdscript" height="40" src="./assets/images/godot.png?v=3"/><br/>
-  <sub>Gdscript</sub>
-</div>
-</p>
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="./assets/images/java.png?v=3" width="48" height="48" alt="Java" />
+    <br />Java
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/kotlin.png?v=3" width="48" height="48" alt="Kotlin" />
+    <br />Kotlin
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/python.png?v=3" width="48" height="48" alt="Python" />
+    <br />Python
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/typescript.png?v=3" width="48" height="48" alt="Typescript" />
+    <br />Typescript
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/javascript.png?v=3" width="48" height="48" alt="Javascript" />
+    <br />Javascript
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="./assets/images/csharp.png?v=3" width="48" height="48" alt="C#" />
+    <br />C#
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/cpp.png?v=3" width="48" height="48" alt="C++" />
+    <br />C++
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/c.png?v=3" width="48" height="48" alt="C" />
+    <br />C
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/godot.png?v=3" width="48" height="48" alt="Gdscript" />
+    <br />Gdscript
+  </td>
+</tr>
+</table>
+
 
 ### 🚀 Frameworks
 Experiência prática com frameworks modernos para acelerar o desenvolvimento de aplicações.  
-<p>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Android" height="40" src="./assets/images/android.png?v=3"/><br/>
-  <sub>Android</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Spring Boot" height="40" src="./assets/images/spring-boot.png?v=3"/><br/>
-  <sub>Spring Boot</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="NodeJS" height="40" src="./assets/images/nodejs.png?v=3"/><br/>
-  <sub>NodeJS</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Express" height="40" src="./assets/images/express.png?v=3"/><br/>
-  <sub>Express</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="NestJS" height="40" src="./assets/images/nestjs.png?v=3"/><br/>
-  <sub>NestJS</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="React" height="40" src="./assets/images/react.png?v=3"/><br/>
-  <sub>React</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="NextJS" height="40" src="./assets/images/nextjs.png?v=3"/><br/>
-  <sub>NextJS</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="VueJS" height="40" src="./assets/images/vuejs.png?v=3"/><br/>
-  <sub>VueJS</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Vuetify" height="40" src="./assets/images/vuetify_js.png?v=3"/><br/>
-  <sub>Vuetify</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="FastAPI" height="40" src="./assets/images/fastapi.png?v=3"/><br/>
-  <sub>FastAPI</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Unity" height="40" src="./assets/images/unity.png?v=3"/><br/>
-  <sub>Unity</sub>
-</div>
-</p>
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="./assets/images/android.png?v=3" width="48" height="48" alt="Android" />
+    <br />Android
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/spring-boot.png?v=3" width="48" height="48" alt="Spring Boot" />
+    <br />Spring Boot
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/nodejs.png?v=3" width="48" height="48" alt="NodeJS" />
+    <br />NodeJS
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/express.png?v=3" width="48" height="48" alt="Express" />
+    <br />Express
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/nestjs.png?v=3" width="48" height="48" alt="NestJS" />
+    <br />NestJS
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="./assets/images/react.png?v=3" width="48" height="48" alt="React" />
+    <br />React
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/nextjs.png?v=3" width="48" height="48" alt="NextJS" />
+    <br />NextJS
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/vuejs.png?v=3" width="48" height="48" alt="VueJS" />
+    <br />VueJS
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/vuetify_js.png?v=3" width="48" height="48" alt="Vuetify" />
+    <br />Vuetify
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/fastapi.png?v=3" width="48" height="48" alt="FastAPI" />
+    <br />FastAPI
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="./assets/images/unity.png?v=3" width="48" height="48" alt="Unity" />
+    <br />Unity
+  </td>
+</tr>
+</table>
+
 
 ### 🚀 Ferramentas de Desenvolvimento  
 Utilização de ferramentas essenciais para acelerar o desenvolvimento, testes e integração contínua.  
-<p>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Tailwind" height="40" src="./assets/images/tailwind.png?v=3"/><br/>
-  <sub>Tailwind</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Bootstrap" height="40" src="./assets/images/bootstrap.png?v=3"/><br/>
-  <sub>Bootstrap</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Material UI" height="40" src="./assets/images/material-ui.png?v=3"/><br/>
-  <sub>Material UI</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Ant Design" height="40" src="./assets/images/ant_design.png?v=3"/><br/>
-  <sub>Ant Design</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Flyway" height="40" src="./assets/images/flyway.png?v=3"/><br/>
-  <sub>Flyway</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="JUnit" height="40" src="./assets/images/junit.png?v=3"/><br/>
-  <sub>JUnit</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Jest" height="40" src="./assets/images/jest.png?v=3"/><br/>
-  <sub>Jest</sub>
-</div>
-</p>
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="./assets/images/tailwind.png?v=3" width="48" height="48" alt="Tailwind" />
+    <br />Tailwind
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/bootstrap.png?v=3" width="48" height="48" alt="Bootstrap" />
+    <br />Bootstrap
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/material-ui.png?v=3" width="48" height="48" alt="Material UI" />
+    <br />Material UI
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/ant_design.png?v=3" width="48" height="48" alt="Ant Design" />
+    <br />Ant Design
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/flyway.png?v=3" width="48" height="48" alt="Flyway" />
+    <br />Flyway
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="./assets/images/junit.png?v=3" width="48" height="48" alt="JUnit" />
+    <br />JUnit
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/jest.png?v=3" width="48" height="48" alt="Jest" />
+    <br />Jest
+  </td>
+</tr>
+</table>
+
 
 ### 🤖 Ciência de Dados e Inteligência Artificial  
 Ferramentas e frameworks para análise de dados, machine learning e visão computacional.  
-<p>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Pandas" height="40" src="./assets/images/pandas.png?v=3"/><br/>
-  <sub>Pandas</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Polars" height="40" src="./assets/images/polars.png?v=3"/><br/>
-  <sub>Polars</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Scikit-learn" height="40" src="./assets/images/scikit-learn.png?v=3"/><br/>
-  <sub>Scikit-learn</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="YOLO Ultralytics" height="40" src="./assets/images/yolo_ultralytics.png?v=3"/><br/>
-  <sub>YOLO Ultralytics</sub>
-</div>
-</p>
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="./assets/images/pandas.png?v=3" width="48" height="48" alt="Pandas" />
+    <br />Pandas
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/polars.png?v=3" width="48" height="48" alt="Polars" />
+    <br />Polars
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/scikit-learn.png?v=3" width="48" height="48" alt="Scikit-learn" />
+    <br />Scikit-learn
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/yolo_ultralytics.png?v=3" width="48" height="48" alt="YOLO Ultralytics" />
+    <br />YOLO Ultralytics
+  </td>
+</tr>
+</table>
+
 
 ### 🏠 IoT e Automação  
 Experiência com plataformas de Internet das Coisas e automação residencial.  
-<p>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Home Assistant" height="40" src="./assets/images/home_assistant.png?v=3"/><br/>
-  <sub>Home Assistant</sub>
-</div>
-</p>
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="./assets/images/home_assistant.png?v=3" width="48" height="48" alt="Home Assistant" />
+    <br />Home Assistant
+  </td>
+</tr>
+</table>
+
 
 ### 🚀 Bancos de Dados e ORMs
 Conhecimento em bancos de dados relacionais e não relacionais para aplicações escaláveis.  
-<p>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="PostgreSQL" height="40" src="./assets/images/postgresql.png?v=3"/><br/>
-  <sub>PostgreSQL</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="MongoDB" height="40" src="./assets/images/mongodb.png?v=3"/><br/>
-  <sub>MongoDB</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Firestore" height="40" src="./assets/images/firebase.png?v=3"/><br/>
-  <sub>Firestore</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Google Cloud" height="40" src="./assets/images/gcp.png?v=3"/><br/>
-  <sub>Google Cloud</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="SQLite" height="40" src="./assets/images/sqlite.png?v=3"/><br/>
-  <sub>SQLite</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Prisma" height="40" src="./assets/images/prisma.png?v=3"/><br/>
-  <sub>Prisma</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="SQLAlchemy" height="40" src="./assets/images/sqlalchemy.png?v=3"/><br/>
-  <sub>SQLAlchemy</sub>
-</div>
-</p>
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="./assets/images/postgresql.png?v=3" width="48" height="48" alt="PostgreSQL" />
+    <br />PostgreSQL
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/mongodb.png?v=3" width="48" height="48" alt="MongoDB" />
+    <br />MongoDB
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/firebase.png?v=3" width="48" height="48" alt="Firestore" />
+    <br />Firestore
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/gcp.png?v=3" width="48" height="48" alt="Google Cloud" />
+    <br />Google Cloud
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/sqlite.png?v=3" width="48" height="48" alt="SQLite" />
+    <br />SQLite
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="./assets/images/prisma.png?v=3" width="48" height="48" alt="Prisma" />
+    <br />Prisma
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/sqlalchemy.png?v=3" width="48" height="48" alt="SQLAlchemy" />
+    <br />SQLAlchemy
+  </td>
+</tr>
+</table>
+
 
 ### 🚀 Ferramentas de Cloud e DevOps  
 Experiência com ferramentas de infraestrutura e cloud para automação e escalabilidade.  
-<p>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Firestore" height="40" src="./assets/images/firebase.png?v=3"/><br/>
-  <sub>Firestore</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Google Cloud" height="40" src="./assets/images/gcp.png?v=3"/><br/>
-  <sub>Google Cloud</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Docker" height="40" src="./assets/images/docker.png?v=3"/><br/>
-  <sub>Docker</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="CI/CD" height="40" src="./assets/images/cicd.png?v=3"/><br/>
-  <sub>CI/CD</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="GitHub Actions" height="40" src="./assets/images/github-actions.png?v=3"/><br/>
-  <sub>GitHub Actions</sub>
-</div>
-</p>
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="./assets/images/firebase.png?v=3" width="48" height="48" alt="Firestore" />
+    <br />Firestore
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/gcp.png?v=3" width="48" height="48" alt="Google Cloud" />
+    <br />Google Cloud
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/docker.png?v=3" width="48" height="48" alt="Docker" />
+    <br />Docker
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/cicd.png?v=3" width="48" height="48" alt="CI/CD" />
+    <br />CI/CD
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/github-actions.png?v=3" width="48" height="48" alt="GitHub Actions" />
+    <br />GitHub Actions
+  </td>
+</tr>
+</table>
+
 
 ### 🚀 Ferramentas de Colaboração e Design  
 Valorizo a colaboração e o design para criar soluções eficazes e intuitivas.  
-<p>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Git" height="40" src="./assets/images/git.png?v=3"/><br/>
-  <sub>Git</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Figma" height="40" src="./assets/images/figma.png?v=3"/><br/>
-  <sub>Figma</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Trello" height="40" src="./assets/images/trello.png?v=3"/><br/>
-  <sub>Trello</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Jira" height="40" src="./assets/images/jira.png?v=3"/><br/>
-  <sub>Jira</sub>
-</div>
-    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
-  <img alt="Notion" height="40" src="./assets/images/notion.png?v=3"/><br/>
-  <sub>Notion</sub>
-</div>
-</p>
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="./assets/images/git.png?v=3" width="48" height="48" alt="Git" />
+    <br />Git
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/figma.png?v=3" width="48" height="48" alt="Figma" />
+    <br />Figma
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/trello.png?v=3" width="48" height="48" alt="Trello" />
+    <br />Trello
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/jira.png?v=3" width="48" height="48" alt="Jira" />
+    <br />Jira
+  </td>
+  <td align="center" width="96">
+    <img src="./assets/images/notion.png?v=3" width="48" height="48" alt="Notion" />
+    <br />Notion
+  </td>
+</tr>
+</table>
+
 
 ---
 
