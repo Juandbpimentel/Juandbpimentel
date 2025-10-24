@@ -1,4 +1,4 @@
-<img src="./icons/profilecape.png">
+<img src="./assets/images/profilecape.png">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Juandbpimentel.Juandbpimentel&left_color=orange&right_color=black"  />
 
@@ -22,75 +22,90 @@ Prazer em conhecê-los! Meu nome é Juan Pimentel, tenho 24 anos, nasci no Rio d
 ### 🚀 Linguagens de Programação  
 Proficiente em diversas linguagens, garantindo flexibilidade em diferentes projetos e arquiteturas.  
 <p>
-    <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-    <img alt="Kotlin" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" />
-    <img alt="Python" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" />
-    <img alt="Typescript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img alt="Javascript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img alt="Gdscript" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" />
+    <img alt="Java" height="40" src="./assets/images/java.svg" />
+    <img alt="Kotlin" height="40" src="./assets/images/kotlin.png" />
+    <img alt="Python" height="40" src="./assets/images/python.png" />
+    <img alt="Typescript" height="40" src="./assets/images/typescript.svg" />
+    <img alt="Javascript" height="40" src="./assets/images/javascript.svg" />
+    <img alt="C#" height="40" src="./assets/images/csharp.svg" />
+    <img alt="C++" height="40" src="./assets/images/cpp.svg" />
+    <img alt="C" height="40" src="./assets/images/c.svg" />
+    <img alt="Gdscript" height="40" src="./assets/images/godot.png" />
 </p>
 
 ### 🚀 Frameworks
 Experiência prática com frameworks modernos para acelerar o desenvolvimento de aplicações.  
 <p>
-    <img alt="Android" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" />
-    <img alt="Spring Boot" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" />
-    <img alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img alt="Express" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" />
-    <img alt="NestJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-    <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img alt="NextJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-    <img alt="VueJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-    <img alt="Vuetify" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vuetify_js.png" />
-    <img alt="FastAPI" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+    <img alt="Android" height="40" src="./assets/images/android.png" />
+    <img alt="Spring Boot" height="40" src="./assets/images/spring-boot.png" />
+    <img alt="NodeJS" height="40" src="./assets/images/nodejs.svg" />
+    <img alt="Express" height="40" src="./assets/images/express.png" />
+    <img alt="NestJS" height="40" src="./assets/images/nestjs.svg" />
+    <img alt="React" height="40" src="./assets/images/react.svg" />
+    <img alt="NextJS" height="40" src="./assets/images/nextjs.svg" />
+    <img alt="VueJS" height="40" src="./assets/images/vuejs.svg" />
+    <img alt="Vuetify" height="40" src="./assets/images/vuetify_js.png" />
+    <img alt="FastAPI" height="40" src="./assets/images/fastapi.svg" />
+    <img alt="Unity" height="40" src="./assets/images/unity.svg" />
 </p>
 
 ### 🚀 Ferramentas de Desenvolvimento  
 Utilização de ferramentas essenciais para acelerar o desenvolvimento, testes e integração contínua.  
 <p>
-    <img alt="Tailwind" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img alt="Bootstrap" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" />
-    <img alt="Material UI" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" />
-    <img alt="Ant Design" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ant_design.png" />
-    <img alt ="Pandas" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-    <img alt="Flyway" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flyway.png" />
-    <img alt="JUnit" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" />
-    <img alt="Jest" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+    <img alt="Tailwind" height="40" src="./assets/images/tailwind.svg" />
+    <img alt="Bootstrap" height="40" src="./assets/images/bootstrap.png" />
+    <img alt="Material UI" height="40" src="./assets/images/material-ui.png" />
+    <img alt="Ant Design" height="40" src="./assets/images/ant_design.png" />
+    <img alt="Flyway" height="40" src="./assets/images/flyway.png" />
+    <img alt="JUnit" height="40" src="./assets/images/junit.png" />
+    <img alt="Jest" height="40" src="./assets/images/jest.svg" />
+</p>
+
+### 🤖 Ciência de Dados e Inteligência Artificial  
+Ferramentas e frameworks para análise de dados, machine learning e visão computacional.  
+<p>
+    <img alt="Pandas" height="40" src="./assets/images/pandas.svg" />
+    <img alt="Polars" height="40" src="./assets/images/polars.svg" />
+    <img alt="Scikit-learn" height="40" src="./assets/images/scikit-learn.svg" />
+    <img alt="YOLO Ultralytics" height="40" src="./assets/images/yolo_ultralytics.svg" />
+</p>
+
+### 🏠 IoT e Automação  
+Experiência com plataformas de Internet das Coisas e automação residencial.  
+<p>
+    <img alt="Home Assistant" height="40" src="./assets/images/home_assistant.svg" />
 </p>
 
 ### 🚀 Bancos de Dados e ORMs
 Conhecimento em bancos de dados relacionais e não relacionais para aplicações escaláveis.  
 <p>
-    <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img alt="Firestore" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" />
-    <img alt="Google Cloud" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" />
-    <img alt="SQLite" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" />
-    <img alt="Prisma" height="40" src="./icons/prismaLogo.svg" />
-    <img alt="SQLAlchemy" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
+    <img alt="PostgreSQL" height="40" src="./assets/images/postgresql.svg" />
+    <img alt="MongoDB" height="40" src="./assets/images/mongodb.svg" />
+    <img alt="Firestore" height="40" src="./assets/images/firebase.png" />
+    <img alt="Google Cloud" height="40" src="./assets/images/gcp.png" />
+    <img alt="SQLite" height="40" src="./assets/images/sqlite.png" />
+    <img alt="Prisma" height="40" src="./assets/images/prisma.svg" />
+    <img alt="SQLAlchemy" height="40" src="./assets/images/sqlalchemy.svg" />
 </p>
 
 ### 🚀 Ferramentas de Cloud e DevOps  
 Experiência com ferramentas de infraestrutura e cloud para automação e escalabilidade.  
 <p>
-    <img alt="Firestore" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" />
-    <img alt="Google Cloud" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" />
-    <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-    <img alt ="CI/CD" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" />
-    <img alt="GitHub Actions" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+    <img alt="Firestore" height="40" src="./assets/images/firebase.png" />
+    <img alt="Google Cloud" height="40" src="./assets/images/gcp.png" />
+    <img alt="Docker" height="40" src="./assets/images/docker.svg" />
+    <img alt ="CI/CD" height="40" src="./assets/images/cicd.png" />
+    <img alt="GitHub Actions" height="40" src="./assets/images/github-actions.svg" />
 </p>
 
 ### 🚀 Ferramentas de Colaboração e Design  
 Valorizo a colaboração e o design para criar soluções eficazes e intuitivas.  
 <p>
-    <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img alt="Trello" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-    <img alt="Jira" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" />
-    <img alt="Notion" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+    <img alt="Git" height="40" src="./assets/images/git.svg" />
+    <img alt="Figma" height="40" src="./assets/images/figma.svg" />
+    <img alt="Trello" height="40" src="./assets/images/trello.svg" />
+    <img alt="Jira" height="40" src="./assets/images/jira.png" />
+    <img alt="Notion" height="40" src="./assets/images/notion.svg" />
 </p>
 
 ---
