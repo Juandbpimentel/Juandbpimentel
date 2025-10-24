@@ -22,237 +22,237 @@ Prazer em conhecê-los! Meu nome é Juan Pimentel, tenho 23 anos, nasci no Rio d
 ### 🚀 Linguagens de Programação  
 Proficiente em diversas linguagens, garantindo flexibilidade em diferentes projetos e arquiteturas.  
 <p>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Java" height="40" src="./assets/images/java.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Java</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Kotlin" height="40" src="./assets/images/kotlin.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Kotlin</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Python" height="40" src="./assets/images/python.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Python</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Typescript" height="40" src="./assets/images/typescript.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Typescript</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Javascript" height="40" src="./assets/images/javascript.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Javascript</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="C#" height="40" src="./assets/images/csharp.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">C#</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="C++" height="40" src="./assets/images/cpp.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">C++</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="C" height="40" src="./assets/images/c.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">C</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Gdscript" height="40" src="./assets/images/godot.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Gdscript</small>
-    </span>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Java" height="40" src="./assets/images/java.png?v=3"/><br/>
+  <sub>Java</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Kotlin" height="40" src="./assets/images/kotlin.png?v=3"/><br/>
+  <sub>Kotlin</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Python" height="40" src="./assets/images/python.png?v=3"/><br/>
+  <sub>Python</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Typescript" height="40" src="./assets/images/typescript.png?v=3"/><br/>
+  <sub>Typescript</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Javascript" height="40" src="./assets/images/javascript.png?v=3"/><br/>
+  <sub>Javascript</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="C#" height="40" src="./assets/images/csharp.png?v=3"/><br/>
+  <sub>C#</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="C++" height="40" src="./assets/images/cpp.png?v=3"/><br/>
+  <sub>C++</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="C" height="40" src="./assets/images/c.png?v=3"/><br/>
+  <sub>C</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Gdscript" height="40" src="./assets/images/godot.png?v=3"/><br/>
+  <sub>Gdscript</sub>
+</div>
 </p>
 
 ### 🚀 Frameworks
 Experiência prática com frameworks modernos para acelerar o desenvolvimento de aplicações.  
 <p>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Android" height="40" src="./assets/images/android.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Android</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Spring Boot" height="40" src="./assets/images/spring-boot.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Spring Boot</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="NodeJS" height="40" src="./assets/images/nodejs.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">NodeJS</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Express" height="40" src="./assets/images/express.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Express</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="NestJS" height="40" src="./assets/images/nestjs.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">NestJS</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="React" height="40" src="./assets/images/react.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">React</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="NextJS" height="40" src="./assets/images/nextjs.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">NextJS</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="VueJS" height="40" src="./assets/images/vuejs.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">VueJS</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Vuetify" height="40" src="./assets/images/vuetify_js.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Vuetify</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="FastAPI" height="40" src="./assets/images/fastapi.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">FastAPI</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Unity" height="40" src="./assets/images/unity.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Unity</small>
-    </span>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Android" height="40" src="./assets/images/android.png?v=3"/><br/>
+  <sub>Android</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Spring Boot" height="40" src="./assets/images/spring-boot.png?v=3"/><br/>
+  <sub>Spring Boot</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="NodeJS" height="40" src="./assets/images/nodejs.png?v=3"/><br/>
+  <sub>NodeJS</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Express" height="40" src="./assets/images/express.png?v=3"/><br/>
+  <sub>Express</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="NestJS" height="40" src="./assets/images/nestjs.png?v=3"/><br/>
+  <sub>NestJS</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="React" height="40" src="./assets/images/react.png?v=3"/><br/>
+  <sub>React</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="NextJS" height="40" src="./assets/images/nextjs.png?v=3"/><br/>
+  <sub>NextJS</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="VueJS" height="40" src="./assets/images/vuejs.png?v=3"/><br/>
+  <sub>VueJS</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Vuetify" height="40" src="./assets/images/vuetify_js.png?v=3"/><br/>
+  <sub>Vuetify</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="FastAPI" height="40" src="./assets/images/fastapi.png?v=3"/><br/>
+  <sub>FastAPI</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Unity" height="40" src="./assets/images/unity.png?v=3"/><br/>
+  <sub>Unity</sub>
+</div>
 </p>
 
 ### 🚀 Ferramentas de Desenvolvimento  
 Utilização de ferramentas essenciais para acelerar o desenvolvimento, testes e integração contínua.  
 <p>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Tailwind" height="40" src="./assets/images/tailwind.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Tailwind</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Bootstrap" height="40" src="./assets/images/bootstrap.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Bootstrap</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Material UI" height="40" src="./assets/images/material-ui.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Material UI</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Ant Design" height="40" src="./assets/images/ant_design.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Ant Design</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Flyway" height="40" src="./assets/images/flyway.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Flyway</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="JUnit" height="40" src="./assets/images/junit.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">JUnit</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Jest" height="40" src="./assets/images/jest.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Jest</small>
-    </span>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Tailwind" height="40" src="./assets/images/tailwind.png?v=3"/><br/>
+  <sub>Tailwind</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Bootstrap" height="40" src="./assets/images/bootstrap.png?v=3"/><br/>
+  <sub>Bootstrap</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Material UI" height="40" src="./assets/images/material-ui.png?v=3"/><br/>
+  <sub>Material UI</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Ant Design" height="40" src="./assets/images/ant_design.png?v=3"/><br/>
+  <sub>Ant Design</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Flyway" height="40" src="./assets/images/flyway.png?v=3"/><br/>
+  <sub>Flyway</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="JUnit" height="40" src="./assets/images/junit.png?v=3"/><br/>
+  <sub>JUnit</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Jest" height="40" src="./assets/images/jest.png?v=3"/><br/>
+  <sub>Jest</sub>
+</div>
 </p>
 
 ### 🤖 Ciência de Dados e Inteligência Artificial  
 Ferramentas e frameworks para análise de dados, machine learning e visão computacional.  
 <p>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Pandas" height="40" src="./assets/images/pandas.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Pandas</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Polars" height="40" src="./assets/images/polars.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Polars</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Scikit-learn" height="40" src="./assets/images/scikit-learn.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Scikit-learn</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="YOLO Ultralytics" height="40" src="./assets/images/yolo_ultralytics.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">YOLO Ultralytics</small>
-    </span>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Pandas" height="40" src="./assets/images/pandas.png?v=3"/><br/>
+  <sub>Pandas</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Polars" height="40" src="./assets/images/polars.png?v=3"/><br/>
+  <sub>Polars</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Scikit-learn" height="40" src="./assets/images/scikit-learn.png?v=3"/><br/>
+  <sub>Scikit-learn</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="YOLO Ultralytics" height="40" src="./assets/images/yolo_ultralytics.png?v=3"/><br/>
+  <sub>YOLO Ultralytics</sub>
+</div>
 </p>
 
 ### 🏠 IoT e Automação  
 Experiência com plataformas de Internet das Coisas e automação residencial.  
 <p>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Home Assistant" height="40" src="./assets/images/home_assistant.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Home Assistant</small>
-    </span>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Home Assistant" height="40" src="./assets/images/home_assistant.png?v=3"/><br/>
+  <sub>Home Assistant</sub>
+</div>
 </p>
 
 ### 🚀 Bancos de Dados e ORMs
 Conhecimento em bancos de dados relacionais e não relacionais para aplicações escaláveis.  
 <p>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="PostgreSQL" height="40" src="./assets/images/postgresql.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">PostgreSQL</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="MongoDB" height="40" src="./assets/images/mongodb.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">MongoDB</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Firestore" height="40" src="./assets/images/firebase.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Firestore</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Google Cloud" height="40" src="./assets/images/gcp.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Google Cloud</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="SQLite" height="40" src="./assets/images/sqlite.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">SQLite</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Prisma" height="40" src="./assets/images/prisma.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Prisma</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="SQLAlchemy" height="40" src="./assets/images/sqlalchemy.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">SQLAlchemy</small>
-    </span>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="PostgreSQL" height="40" src="./assets/images/postgresql.png?v=3"/><br/>
+  <sub>PostgreSQL</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="MongoDB" height="40" src="./assets/images/mongodb.png?v=3"/><br/>
+  <sub>MongoDB</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Firestore" height="40" src="./assets/images/firebase.png?v=3"/><br/>
+  <sub>Firestore</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Google Cloud" height="40" src="./assets/images/gcp.png?v=3"/><br/>
+  <sub>Google Cloud</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="SQLite" height="40" src="./assets/images/sqlite.png?v=3"/><br/>
+  <sub>SQLite</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Prisma" height="40" src="./assets/images/prisma.png?v=3"/><br/>
+  <sub>Prisma</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="SQLAlchemy" height="40" src="./assets/images/sqlalchemy.png?v=3"/><br/>
+  <sub>SQLAlchemy</sub>
+</div>
 </p>
 
 ### 🚀 Ferramentas de Cloud e DevOps  
 Experiência com ferramentas de infraestrutura e cloud para automação e escalabilidade.  
 <p>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Firestore" height="40" src="./assets/images/firebase.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Firestore</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Google Cloud" height="40" src="./assets/images/gcp.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Google Cloud</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Docker" height="40" src="./assets/images/docker.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Docker</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="CI/CD" height="40" src="./assets/images/cicd.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">CI/CD</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="GitHub Actions" height="40" src="./assets/images/github-actions.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">GitHub Actions</small>
-    </span>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Firestore" height="40" src="./assets/images/firebase.png?v=3"/><br/>
+  <sub>Firestore</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Google Cloud" height="40" src="./assets/images/gcp.png?v=3"/><br/>
+  <sub>Google Cloud</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Docker" height="40" src="./assets/images/docker.png?v=3"/><br/>
+  <sub>Docker</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="CI/CD" height="40" src="./assets/images/cicd.png?v=3"/><br/>
+  <sub>CI/CD</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="GitHub Actions" height="40" src="./assets/images/github-actions.png?v=3"/><br/>
+  <sub>GitHub Actions</sub>
+</div>
 </p>
 
 ### 🚀 Ferramentas de Colaboração e Design  
 Valorizo a colaboração e o design para criar soluções eficazes e intuitivas.  
 <p>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Git" height="40" src="./assets/images/git.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Git</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Figma" height="40" src="./assets/images/figma.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Figma</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Trello" height="40" src="./assets/images/trello.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Trello</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Jira" height="40" src="./assets/images/jira.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Jira</small>
-    </span>
-    <span style="display:inline-block; text-align:center; margin:5px; width:50px;">
-        <img alt="Notion" height="40" src="./assets/images/notion.png?v=3" style="display:block; margin:0 auto;" />
-        <small style="display:block; font-size:9px; color:#888; margin-top:2px; line-height:1.2; word-wrap:break-word;">Notion</small>
-    </span>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Git" height="40" src="./assets/images/git.png?v=3"/><br/>
+  <sub>Git</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Figma" height="40" src="./assets/images/figma.png?v=3"/><br/>
+  <sub>Figma</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Trello" height="40" src="./assets/images/trello.png?v=3"/><br/>
+  <sub>Trello</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Jira" height="40" src="./assets/images/jira.png?v=3"/><br/>
+  <sub>Jira</sub>
+</div>
+    <div align="center" style="display: inline-block; width: 60px; margin: 5px;">
+  <img alt="Notion" height="40" src="./assets/images/notion.png?v=3"/><br/>
+  <sub>Notion</sub>
+</div>
 </p>
 
 ---
