@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/RkZcCZSr/profilecape.png">
+<img src="https://i.ibb.co/RkZcCZSr/profilecape.png" width="100%">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Juandbpimentel.Juandbpimentel&left_color=orange&right_color=black"  />
 
