@@ -1,4 +1,4 @@
-<img src="./assets/images/profilecape.png?v=3">
+<img src="https://i.ibb.co/RkZcCZSr/profilecape.png">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Juandbpimentel.Juandbpimentel&left_color=orange&right_color=black"  />
 
@@ -25,41 +25,41 @@ Proficiente em diversas linguagens, garantindo flexibilidade em diferentes proje
 <table>
 <tr>
   <td align="center" width="96">
-    <img src="./assets/images/java.png?v=3" width="48" height="48" alt="Java" />
+    <img src="https://i.ibb.co/P7JVCQT/java.png" width="48" height="48" alt="Java" />
     <br />Java
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/kotlin.png?v=3" width="48" height="48" alt="Kotlin" />
+    <img src="https://i.ibb.co/x8LJhJzW/kotlin.png" width="48" height="48" alt="Kotlin" />
     <br />Kotlin
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/python.png?v=3" width="48" height="48" alt="Python" />
+    <img src="https://i.ibb.co/WWPB5c40/python.png" width="48" height="48" alt="Python" />
     <br />Python
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/typescript.png?v=3" width="48" height="48" alt="Typescript" />
+    <img src="https://i.ibb.co/S7Zy34M1/typescript.png" width="48" height="48" alt="Typescript" />
     <br />Typescript
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/javascript.png?v=3" width="48" height="48" alt="Javascript" />
+    <img src="https://i.ibb.co/twh7QJH3/javascript.png" width="48" height="48" alt="Javascript" />
     <br />Javascript
   </td>
 </tr>
 <tr>
   <td align="center" width="96">
-    <img src="./assets/images/csharp.png?v=3" width="48" height="48" alt="C#" />
+    <img src="https://i.ibb.co/MkNQC956/csharp.png" width="48" height="48" alt="C#" />
     <br />C#
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/cpp.png?v=3" width="48" height="48" alt="C++" />
+    <img src="https://i.ibb.co/n8VKWzhq/cpp.png" width="48" height="48" alt="C++" />
     <br />C++
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/c.png?v=3" width="48" height="48" alt="C" />
+    <img src="https://i.ibb.co/MxPDZH6x/c.png" width="48" height="48" alt="C" />
     <br />C
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/godot.png?v=3" width="48" height="48" alt="Gdscript" />
+    <img src="https://i.ibb.co/ynqT21F1/godot.png" width="48" height="48" alt="Gdscript" />
     <br />Gdscript
   </td>
 </tr>
@@ -72,51 +72,51 @@ Experiência prática com frameworks modernos para acelerar o desenvolvimento de
 <table>
 <tr>
   <td align="center" width="96">
-    <img src="./assets/images/android.png?v=3" width="48" height="48" alt="Android" />
+    <img src="https://i.ibb.co/LzRtsLWK/android.png" width="48" height="48" alt="Android" />
     <br />Android
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/spring-boot.png?v=3" width="48" height="48" alt="Spring Boot" />
+    <img src="https://i.ibb.co/G4JcF1N5/spring-boot.png" width="48" height="48" alt="Spring Boot" />
     <br />Spring Boot
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/nodejs.png?v=3" width="48" height="48" alt="NodeJS" />
+    <img src="https://i.ibb.co/8g6p94CW/nodejs.png" width="48" height="48" alt="NodeJS" />
     <br />NodeJS
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/express.png?v=3" width="48" height="48" alt="Express" />
+    <img src="https://i.ibb.co/B51XkzGw/express.png" width="48" height="48" alt="Express" />
     <br />Express
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/nestjs.png?v=3" width="48" height="48" alt="NestJS" />
+    <img src="https://i.ibb.co/VpV2HFrW/nestjs.png" width="48" height="48" alt="NestJS" />
     <br />NestJS
   </td>
 </tr>
 <tr>
   <td align="center" width="96">
-    <img src="./assets/images/react.png?v=3" width="48" height="48" alt="React" />
+    <img src="https://i.ibb.co/9mWVkqcz/react.png" width="48" height="48" alt="React" />
     <br />React
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/nextjs.png?v=3" width="48" height="48" alt="NextJS" />
+    <img src="https://i.ibb.co/nNxNy0G8/nextjs.png" width="48" height="48" alt="NextJS" />
     <br />NextJS
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/vuejs.png?v=3" width="48" height="48" alt="VueJS" />
+    <img src="https://i.ibb.co/TqKndvp9/vuejs.png" width="48" height="48" alt="VueJS" />
     <br />VueJS
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/vuetify_js.png?v=3" width="48" height="48" alt="Vuetify" />
+    <img src="https://i.ibb.co/VcqBV4Kt/vuetify-js.png" width="48" height="48" alt="Vuetify" />
     <br />Vuetify
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/fastapi.png?v=3" width="48" height="48" alt="FastAPI" />
+    <img src="https://i.ibb.co/r2YMyJ6v/fastapi.png" width="48" height="48" alt="FastAPI" />
     <br />FastAPI
   </td>
 </tr>
 <tr>
   <td align="center" width="96">
-    <img src="./assets/images/unity.png?v=3" width="48" height="48" alt="Unity" />
+    <img src="https://i.ibb.co/zTpkq3RS/unity.png" width="48" height="48" alt="Unity" />
     <br />Unity
   </td>
 </tr>
@@ -129,33 +129,33 @@ Utilização de ferramentas essenciais para acelerar o desenvolvimento, testes e
 <table>
 <tr>
   <td align="center" width="96">
-    <img src="./assets/images/tailwind.png?v=3" width="48" height="48" alt="Tailwind" />
+    <img src="https://i.ibb.co/1fvkf1RH/tailwind.png" width="48" height="48" alt="Tailwind" />
     <br />Tailwind
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/bootstrap.png?v=3" width="48" height="48" alt="Bootstrap" />
+    <img src="https://i.ibb.co/60z85Cq6/bootstrap.png" width="48" height="48" alt="Bootstrap" />
     <br />Bootstrap
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/material-ui.png?v=3" width="48" height="48" alt="Material UI" />
+    <img src="https://i.ibb.co/RG7zksvM/material-ui.png" width="48" height="48" alt="Material UI" />
     <br />Material UI
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/ant_design.png?v=3" width="48" height="48" alt="Ant Design" />
+    <img src="https://i.ibb.co/FLsC5yMz/ant-design.png" width="48" height="48" alt="Ant Design" />
     <br />Ant Design
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/flyway.png?v=3" width="48" height="48" alt="Flyway" />
+    <img src="https://i.ibb.co/8gZK3PCt/flyway.png" width="48" height="48" alt="Flyway" />
     <br />Flyway
   </td>
 </tr>
 <tr>
   <td align="center" width="96">
-    <img src="./assets/images/junit.png?v=3" width="48" height="48" alt="JUnit" />
+    <img src="https://i.ibb.co/9HrhXX6Q/junit.png" width="48" height="48" alt="JUnit" />
     <br />JUnit
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/jest.png?v=3" width="48" height="48" alt="Jest" />
+    <img src="https://i.ibb.co/Xkt86snW/jest.png" width="48" height="48" alt="Jest" />
     <br />Jest
   </td>
 </tr>
@@ -168,19 +168,19 @@ Ferramentas e frameworks para análise de dados, machine learning e visão compu
 <table>
 <tr>
   <td align="center" width="96">
-    <img src="./assets/images/pandas.png?v=3" width="48" height="48" alt="Pandas" />
+    <img src="https://i.ibb.co/99nKzK6h/pandas.png" width="48" height="48" alt="Pandas" />
     <br />Pandas
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/polars.png?v=3" width="48" height="48" alt="Polars" />
+    <img src="https://i.ibb.co/nyZvr9y/polars.png" width="48" height="48" alt="Polars" />
     <br />Polars
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/scikit-learn.png?v=3" width="48" height="48" alt="Scikit-learn" />
+    <img src="https://i.ibb.co/YBbbTgn4/scikit-learn.png" width="48" height="48" alt="Scikit-learn" />
     <br />Scikit-learn
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/yolo_ultralytics.png?v=3" width="48" height="48" alt="YOLO Ultralytics" />
+    <img src="https://i.ibb.co/3mpc2Nx7/yolo-ultralytics.png" width="48" height="48" alt="YOLO Ultralytics" />
     <br />YOLO Ultralytics
   </td>
 </tr>
@@ -193,7 +193,7 @@ Experiência com plataformas de Internet das Coisas e automação residencial.
 <table>
 <tr>
   <td align="center" width="96">
-    <img src="./assets/images/home_assistant.png?v=3" width="48" height="48" alt="Home Assistant" />
+    <img src="https://i.ibb.co/bM1tX8Mz/home-assistant.png" width="48" height="48" alt="Home Assistant" />
     <br />Home Assistant
   </td>
 </tr>
@@ -206,33 +206,33 @@ Conhecimento em bancos de dados relacionais e não relacionais para aplicações
 <table>
 <tr>
   <td align="center" width="96">
-    <img src="./assets/images/postgresql.png?v=3" width="48" height="48" alt="PostgreSQL" />
+    <img src="https://i.ibb.co/mrdT6CYS/postgresql.png" width="48" height="48" alt="PostgreSQL" />
     <br />PostgreSQL
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/mongodb.png?v=3" width="48" height="48" alt="MongoDB" />
+    <img src="https://i.ibb.co/RkTpHsbs/mongodb.png" width="48" height="48" alt="MongoDB" />
     <br />MongoDB
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/firebase.png?v=3" width="48" height="48" alt="Firestore" />
+    <img src="https://i.ibb.co/NdhSjRMb/firebase.png" width="48" height="48" alt="Firestore" />
     <br />Firestore
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/gcp.png?v=3" width="48" height="48" alt="Google Cloud" />
+    <img src="https://i.ibb.co/kVz43TL4/gcp.png" width="48" height="48" alt="Google Cloud" />
     <br />Google Cloud
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/sqlite.png?v=3" width="48" height="48" alt="SQLite" />
+    <img src="https://i.ibb.co/hRvjW61F/sqlite.png" width="48" height="48" alt="SQLite" />
     <br />SQLite
   </td>
 </tr>
 <tr>
   <td align="center" width="96">
-    <img src="./assets/images/prisma.png?v=3" width="48" height="48" alt="Prisma" />
+    <img src="https://i.ibb.co/JFgsVgPC/prisma.png" width="48" height="48" alt="Prisma" />
     <br />Prisma
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/sqlalchemy.png?v=3" width="48" height="48" alt="SQLAlchemy" />
+    <img src="https://i.ibb.co/5hkQVTmR/sqlalchemy.png" width="48" height="48" alt="SQLAlchemy" />
     <br />SQLAlchemy
   </td>
 </tr>
@@ -245,23 +245,23 @@ Experiência com ferramentas de infraestrutura e cloud para automação e escala
 <table>
 <tr>
   <td align="center" width="96">
-    <img src="./assets/images/firebase.png?v=3" width="48" height="48" alt="Firestore" />
+    <img src="https://i.ibb.co/NdhSjRMb/firebase.png" width="48" height="48" alt="Firestore" />
     <br />Firestore
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/gcp.png?v=3" width="48" height="48" alt="Google Cloud" />
+    <img src="https://i.ibb.co/kVz43TL4/gcp.png" width="48" height="48" alt="Google Cloud" />
     <br />Google Cloud
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/docker.png?v=3" width="48" height="48" alt="Docker" />
+    <img src="https://i.ibb.co/3YkHys7v/docker.png" width="48" height="48" alt="Docker" />
     <br />Docker
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/cicd.png?v=3" width="48" height="48" alt="CI/CD" />
+    <img src="https://i.ibb.co/KcRPLjNg/cicd.png" width="48" height="48" alt="CI/CD" />
     <br />CI/CD
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/github-actions.png?v=3" width="48" height="48" alt="GitHub Actions" />
+    <img src="https://i.ibb.co/nqBGQv1B/github-actions.png" width="48" height="48" alt="GitHub Actions" />
     <br />GitHub Actions
   </td>
 </tr>
@@ -274,23 +274,23 @@ Valorizo a colaboração e o design para criar soluções eficazes e intuitivas.
 <table>
 <tr>
   <td align="center" width="96">
-    <img src="./assets/images/git.png?v=3" width="48" height="48" alt="Git" />
+    <img src="https://i.ibb.co/tMtpJMgP/git.png" width="48" height="48" alt="Git" />
     <br />Git
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/figma.png?v=3" width="48" height="48" alt="Figma" />
+    <img src="https://i.ibb.co/0R7JdMmt/figma.png" width="48" height="48" alt="Figma" />
     <br />Figma
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/trello.png?v=3" width="48" height="48" alt="Trello" />
+    <img src="https://i.ibb.co/gFfcJH7F/trello.png" width="48" height="48" alt="Trello" />
     <br />Trello
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/jira.png?v=3" width="48" height="48" alt="Jira" />
+    <img src="https://i.ibb.co/Z18xcshm/jira.png" width="48" height="48" alt="Jira" />
     <br />Jira
   </td>
   <td align="center" width="96">
-    <img src="./assets/images/notion.png?v=3" width="48" height="48" alt="Notion" />
+    <img src="https://i.ibb.co/mF4LH0ZY/notion.png" width="48" height="48" alt="Notion" />
     <br />Notion
   </td>
 </tr>
