@@ -72,7 +72,7 @@ Experiência prática com frameworks modernos para acelerar o desenvolvimento de
 <table>
 <tr>
   <td align="center" width="96">
-    <img src="https://i.ibb.co/LzRtsLWK/android.png" width="48" height="48" alt="Android" />
+    <img src="https://lh3.googleusercontent.com/d/1Jouqm8d6hs0x-Lsr0EXIKRE6OGq8sMuK" width="48" height="48" alt="Android" />
     <br />Android
   </td>
   <td align="center" width="96">
@@ -110,7 +110,7 @@ Experiência prática com frameworks modernos para acelerar o desenvolvimento de
     <br />Vuetify
   </td>
   <td align="center" width="96">
-    <img src="https://i.ibb.co/r2YMyJ6v/fastapi.png" width="48" height="48" alt="FastAPI" />
+    <img src="https://lh3.googleusercontent.com/d/15i96UOImwJYHTUoaUdSvf0ihwE560zOy" width="48" height="48" alt="FastAPI" />
     <br />FastAPI
   </td>
 </tr>
