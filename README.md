@@ -134,11 +134,11 @@ Ferramentas essenciais para containerização, cloud e persistência de dados.
 
 ## 📊 Estatísticas do GitHub
 
-![Status do Github](https://github-readme-stats.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
+![Status do Github](https://github-readme-stats-deploy-eta.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
 
-![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=donut&theme=gruvbox&include_all_commits=true&count_private=true&langs_count=10&hide=HTML,CSS,Assembly,Makefile,Powershell,ShaderLab,HLSL,Mathematica)
+![Linguagens Usadas](https://github-readme-stats-deploy-eta.vercel.app/api/top-langs/?username=Juandbpimentel&layout=donut&theme=gruvbox&include_all_commits=true&count_private=true&langs_count=10&hide=HTML,CSS,Assembly,Makefile,Powershell,ShaderLab,HLSL,Mathematica)
 
-[![Troféus](https://github-profile-trophy.vercel.app/?username=Juandbpimentel&theme=gruvbox&margin-w=20&margin-h=20)](https://github.com/Juandbpimentel)
+[![Troféus](https://github-profile-trophy-cw1mgxdsm-ryo-ma-s-team.vercel.app/?username=Juandbpimentel&theme=gruvbox&margin-w=20&margin-h=20)](https://github.com/Juandbpimentel)
 
 ---
 
