@@ -132,20 +132,13 @@ Ferramentas essenciais para containerização, cloud e persistência de dados.
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=donut&theme=gruvbox&include_all_commits=true&count_private=true&langs_count=6&hide=HTML,CSS,Assembly,Makefile,Powershell,ShaderLab" height="180" alt="languages graph" />
-</div>
+![Status do Github](https://github-readme-stats.vercel.app/api?username=Juandbpimentel&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
 
-<br/>
+![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Juandbpimentel&layout=donut&theme=gruvbox&include_all_commits=true&count_private=true&langs_count=10&hide=HTML,CSS,Assembly,Makefile,Powershell,ShaderLab,HLSL,Mathematica)
 
-<div align="center">
-  <a href="https://github.com/Juandbpimentel">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juandbpimentel&theme=gruvbox&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
-  </a>
-</div>
+[![Troféus](https://github-profile-trophy.vercel.app/?username=Juandbpimentel&theme=gruvbox&margin-w=20&margin-h=20)](https://github.com/Juandbpimentel)
 
 ---
 
