@@ -124,6 +124,10 @@ Ferramentas essenciais para containerização, cloud e persistência de dados.
     <br />MongoDB
   </td>
   <td align="center" width="96">
+    <img src="https://i.ibb.co/5XWKQm4m/Redis.png" width="48" height="48" alt="Redis" />
+    <br />Redis
+  </td>
+  <td align="center" width="96">
     <img src="https://i.ibb.co/tMtpJMgP/git.png" width="48" height="48" alt="Git" />
     <br />Git
   </td>
